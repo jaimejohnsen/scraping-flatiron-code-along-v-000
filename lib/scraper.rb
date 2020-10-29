@@ -37,4 +37,5 @@ class Scraper
         puts "  Schedule: #{course.schedule}"
         puts "  Description: #{course.description}"
       end
+    end
 end
